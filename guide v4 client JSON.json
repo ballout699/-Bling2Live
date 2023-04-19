@@ -14,10 +14,10 @@
   
   "startapp_id": "xxxxxxxx",
 
-  "Interstitial": "startapp",
-  "Banner": "startapp",
+  "Interstitial": "000",
+  "Banner": "000",
   "Native": "xxx",
-  "Rewarded": "startapp",
+  "Rewarded": "000",
   
   
   "main_inter": true,
